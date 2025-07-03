@@ -1,0 +1,46 @@
+#t{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    top: -200;
+}
+#y{
+width: 190px;
+height: 170px;
+position: relative;
+bottom:-200px;
+left: 50px;
+}
+#r{
+    width: 140px;
+    height: 100px;
+}
+#s{
+    top: 40px;
+    right: 160px;
+}
+#l{
+    top: 40px;
+    right: 160px;
+    position: relative;
+
+    bottom: 10000px;
+    left: 250px;
+}
+#f{
+    position: relative;
+    top: 100px;
+    left: 50px;
+
+}
+#g{
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+#j{
+border: 2px solid black;
+height: 300px;
+width: 100%;
+background-color: black;
+}

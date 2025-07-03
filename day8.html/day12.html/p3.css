@@ -1,0 +1,23 @@
+body{
+
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 950px;
+    margin-top: 210px;
+    height: 400px;
+    width: 700px;
+    font-family: figtree;
+    border-radius: 10px;
+    
+}
+.container{
+
+    transition-property:all;
+    transition-duration: 2s;
+
+
+}
+.container:hover{
+    transform:rotatex(180deg)
+}

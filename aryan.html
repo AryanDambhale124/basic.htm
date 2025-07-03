@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>aryan web</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #333; 
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      background-color: white;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+      color: #333;
+    }
+
+    input[type="email"] {
+      padding: 10px;
+      width: 250px;
+      border: 1px solid #aaa;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #555;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #433a3a;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>aryan website</h1>
+    <input type="email" placeholder="Enter your email" />
+    <br>
+    <button>Submit</button>
+    <form>
+  <fieldset>
+    <legend>Gender:</legend>
+    <label for="male">
+      <input type="radio" id="male" name="gender" value="male"> Male
+    </label><br>
+    <label for="female">
+      <input type="radio" id="female" name="gender" value="female"> Female
+    </label><br>
+    <label for="other">
+      <input type="radio" id="other" name="gender" value="other"> Other
+    </label>
+  </fieldset>
+</form>
+  </div>
+</body>
+</html>

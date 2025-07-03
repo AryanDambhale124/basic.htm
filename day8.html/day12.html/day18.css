@@ -1,0 +1,52 @@
+body{
+
+    border: 3px solid black;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 550px;
+    height: 600px;
+    margin-top: 60px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 10px 17px 10px black ;
+    font-family: figtree;
+    background-color: rgb(251, 255, 0);
+}
+
+
+img{
+    margin-top: 70px;
+    border-radius: 20px;
+}
+button{
+position: relative;
+right: 150px;
+top:10px;
+border-radius: 10px;
+}
+#ty{
+    background:;
+}
+p{
+    position: relative;
+    right: 110px;
+    text-size-adjust:  10px;
+    
+}
+h1{
+    position: relative;
+    bottom: 70px;
+    right: 80px;
+    font-size: large;
+    font-weight: bolder;
+
+}
+#e{
+    bottom: 120px;
+    left: 8px;
+    font-size: small;
+}
+div{
+    background:
+    
+}

@@ -1,0 +1,58 @@
+
+ul{
+    gap: 40px;
+    background-color:white;
+    height: 40px;
+    padding: 20px;
+    border: 2px solid black;
+    list-style-type: none;
+    font-style: italic;
+    text-decoration:underline;
+    font-size: 20px;
+    color: black;
+} 
+
+img{
+    margin-left: 400px;
+    position: relative;
+    bottom: 30px;
+    
+}
+
+form{
+    text-align: center;
+    color: white;
+    
+}
+.hover-image {
+    
+    transition: transform 0.2s ease;
+    transition-behavior: 60px;
+    }
+
+    .hover-image:hover {
+    transform: scale(1.5); 
+    }
+    nav a {
+    text-decoration: none;
+    color: black; 
+    padding: 10px;
+    }
+
+    nav a:hover {
+    color: blue; 
+    }
+    #h{
+        position: relative;
+        left: 800px;
+        top: 100px;
+    }
+    #j{
+        position: relative;
+        left:690px;
+        top: 70px;
+    }
+    .tr{
+        scroll-behavior: smooth;
+        
+    }

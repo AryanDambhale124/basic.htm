@@ -1,0 +1,38 @@
+h1{
+    background-color: aqua;
+    color: black;
+}
+
+ul{
+display: flex;
+gap: 400px;
+list-style-type: none;
+text-size-adjust: 60px;
+
+}
+
+img{
+    background-repeat: no-repeat;
+    width: 100%;
+}
+nav{
+    border: 2px solid black;
+}
+
+#ty{
+    flex-direction:row;
+    text-align: center;
+    width: 400px;
+}
+#ry{
+    text-align: center;
+}
+
+form{
+    text-align: center; 
+    
+    padding: 20px;
+}
+#add{
+text-align: center;
+}
